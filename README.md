@@ -2,7 +2,7 @@
 
 ## What can it do
 
-- Language intellisense using Salesforce Apex Language server
+- Language IntelliSense using Salesforce Lightning Aura Components.
   - Go To Definition
   - Go To References
   - Code auto-completion
