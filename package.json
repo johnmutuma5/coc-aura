@@ -1,6 +1,6 @@
 {
   "name": "coc-aura",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Aura Components",
   "main": "out/src/index.js",
   "scripts": {
