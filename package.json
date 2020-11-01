@@ -15,9 +15,7 @@
   "keywords": [
     "coc.nvim",
     "lightning",
-    "web",
-    "components",
-    "lwc"
+    "aura"
   ],
   "devDependencies": {
     "typescript": "^4.0.5"
