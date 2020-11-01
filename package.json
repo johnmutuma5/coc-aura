@@ -2,7 +2,7 @@
   "name": "coc-aura",
   "version": "1.0.0",
   "description": "Aura Components",
-  "main": "out/src/index.js",
+  "main": "out/src/index",
   "scripts": {
     "compile": "tsc -b tsconfig.json",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,6 +18,7 @@
     "aura"
   ],
   "devDependencies": {
+    "@types/node": "^14.14.6",
     "typescript": "^4.0.5"
   },
   "dependencies": {
