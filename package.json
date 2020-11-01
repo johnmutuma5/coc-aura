@@ -2,7 +2,7 @@
   "name": "coc-aura",
   "version": "1.0.0",
   "description": "Aura Components",
-  "main": "out/src/index",
+  "main": "out/src/index.js",
   "scripts": {
     "compile": "tsc -b tsconfig.json",
     "test": "echo \"Error: no test specified\" && exit 1"
