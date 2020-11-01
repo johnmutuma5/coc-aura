@@ -9,10 +9,10 @@ import {
 import * as path from 'path';
 
 export async function activate(context: ExtensionContext) {
-  startLwcServer(context);
+  startAuraLangServer(context);
 }
 
-function startLwcServer(context: ExtensionContext) {
+function startAuraLangServer(context: ExtensionContext) {
   // Setup the language server
   const serverModule = context.asAbsolutePath(
     path.join(
